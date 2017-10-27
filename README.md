@@ -56,7 +56,7 @@ vz2008v (7.62x39)
 M10X (7.62x39)
 
 New uniforms
-
+-------------
 ACU's in both UCP and Multicam
 
 New helmets with changable helmet covers
@@ -64,6 +64,27 @@ New helmets with changable helmet covers
 IOTV's in both UCP and Multicam
 
 
+build 2
+----------------------------------------------------
+Most of the m16's and ar pattern rifles in game can now be stripped down to an upper and lower receiver and mixed and matched to make new franken rifles.
+This also applies to the STG-44's. The STG-44's have 4 componenets (the barrel kit, lower receiver, upper receiver, and the stock/ receiver cap) that can be mixed and matched to create new rifles.
+
+New ammo type 300 blackout
+   + FMJ (full metal jacket)
+   + JHP (jacketed hollow points)
+   + AP (armour peircing)
+
+new magazines for said ammo type and new rifles that use 300 blackout (10, 20, 30, and 50 round magazines)
+
+added 300 blackout upper receivers for AR-15 pattern rifles
+   +a1 upper in 300 blackout
+   +a2 upper in 300 blackout
+   +a3 upper in 300 blackout
+
+added 300 blackout barrel kit for the STG-44 rifles
+
+There might be a few other things I missed. this is the first big project I've worked on and I've had a hard time keeping track of my work.
+___________________________________________________________________________________________
 Disclaimer: By downloading this you agree to not modify my work in any way, shape, or form.
 
 

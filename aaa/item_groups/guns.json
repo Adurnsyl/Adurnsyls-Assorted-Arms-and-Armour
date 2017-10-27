@@ -7,12 +7,12 @@
   {
     "type": "item_group",
     "id": "guns_rifle_rare",
-    "items": [ [ "M10X", 80], [ "rfb", 50], [ "rdb", 50], [ "vz2008v", 40], [ "vz2008p", 50 ], [ "HMG44_223sbr", 25 ], [ "HMG44_223", 50 ], [ "stg44", 10 ], [ "stg44new", 40 ], [ "HMG44_762", 45 ], [ "HMG44_762sbr", 20 ], [ "m16a1", 20 ] ]
+    "items": [ [ "M10X", 80], [ "rfb", 50], [ "rdb", 50], [ "vz2008v", 40], [ "vz2008p", 50 ], [ "HMG44_223_sbr", 25 ], [ "HMG44_223", 50 ], [ "stg44", 10 ], [ "HMG44", 40 ], [ "HMG44_762", 45 ], [ "HMG44_762_sbr", 20 ], [ "m16a1", 20 ], ["ar15_300blk", 50 ], [ "ar15a1_300blk", 80 ], ["ar15a2_300blk", 70] ]
   },
   {
     "type": "item_group",
     "id": "guns_smg_rare",
-    "items": [ [ "HMG44_223smol", 30 ], [ "HMG44_762smol", 35 ] ]
+    "items": [ [ "HMG44_223_smol", 30 ], [ "HMG44_762_smol", 35 ] ]
   },
   {
     "type": "item_group",
@@ -22,7 +22,7 @@
   {
     "type": "item_group",
     "id": "guns_pistol_milspec",
-    "items": [ [ "m1911", 40 ], [ "usp_45", 60 ], [ "glock_19", 30 ], [ "m9", 100 ] ]
+    "items": [ [ "m1911", 40 ], [ "usp_45", 60 ], [ "glock_19", 70 ], [ "m9", 90 ] ]
   },
   {
     "type": "item_group",
