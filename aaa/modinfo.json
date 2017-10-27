@@ -5,7 +5,7 @@
     "name": "Adurnsyl's Assorted Arms and Armour",
     "authors": "Adurnsyl",
     "maintainers": "Adurnsyl",
-    "description": "Just a collection of weapons and such I wanted in game.",
+    "description": "Just a collection of weapons and such I wanted in game. all leadworks firearms have been replaced by a real world counterpart.",
     "category": "items",
     "dependencies": [ "dda" ]
   },

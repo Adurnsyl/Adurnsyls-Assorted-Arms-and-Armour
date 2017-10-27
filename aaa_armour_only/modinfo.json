@@ -1,0 +1,16 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "AAA_armour_only",
+    "name": "A.A.A.A (armours only)",
+    "authors": "Adurnsyl",
+    "maintainers": "Adurnsyl",
+    "description": "Just a collection of real world uniforms and armours I wanted in game. This is the armours only version.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "ITEM_BLACKLIST",
+    "items": [ "modularvest", "modularvestkevlar", "modularvestceramic", "modularveststeel", "modularvesthard", "modularvestsuper", "jacket_army", "pants_army", "helmet_army", "helmet_liner" ]
+  }
+]

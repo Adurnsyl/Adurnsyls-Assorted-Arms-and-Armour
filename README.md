@@ -84,6 +84,16 @@ added 300 blackout upper receivers for AR-15 pattern rifles
 added 300 blackout barrel kit for the STG-44 rifles
 
 There might be a few other things I missed. this is the first big project I've worked on and I've had a hard time keeping track of my work.
+
+build 3
+----------------
+
+More military vests!
+
+ +IOTV mk2 - twice as heavy way more encumbering, but it's super tankey (and hopefully not stupidly OP)
+ +plate carrier - it's a very very light vest. Hardly any encumberance, but it won't take a lot of abuse
+
+Theres also an armours only version and a weapons only version now for those who only want more armours or only want more weapons.
 ___________________________________________________________________________________________
 Disclaimer: By downloading this you agree to not modify my work in any way, shape, or form.
 
