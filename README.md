@@ -77,9 +77,9 @@ New ammo type 300 blackout
 new magazines for said ammo type and new rifles that use 300 blackout (10, 20, 30, and 50 round magazines)
 
 added 300 blackout upper receivers for AR-15 pattern rifles
-   +a1 upper in 300 blackout
-   +a2 upper in 300 blackout
-   +a3 upper in 300 blackout
+   + a1 upper in 300 blackout
+   + a2 upper in 300 blackout
+   + a3 upper in 300 blackout
 
 added 300 blackout barrel kit for the STG-44 rifles
 
@@ -90,8 +90,8 @@ build 3
 
 More military vests!
 
- +IOTV mk2 - twice as heavy way more encumbering, but it's super tankey (and hopefully not stupidly OP)
- +plate carrier - it's a very very light vest. Hardly any encumberance, but it won't take a lot of abuse
+ + IOTV mk2 - twice as heavy way more encumbering, but it's super tankey (and hopefully not stupidly OP)
+ + plate carrier - it's a very very light vest. Hardly any encumberance, but it won't take a lot of abuse
 
 Theres also an armours only version and a weapons only version now for those who only want more armours or only want more weapons.
 ___________________________________________________________________________________________
