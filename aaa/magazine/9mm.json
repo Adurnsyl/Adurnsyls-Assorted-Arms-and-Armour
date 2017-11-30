@@ -47,5 +47,35 @@
     "capacity": 15,
     "reliability": 3,
     "flags": [ "MAG_BULKY" ]
+  },
+  {
+    "id": "rak_9mm_15",
+    "type": "MAGAZINE",
+    "name": "PM-83p compact magazine",
+    "description": "a compact magazine for a PM-63 rak pdw chambered in 9mm",
+    "weight": 245,
+    "volume": 1,
+    "material": [ "steel" ],
+    "symbol": "#",
+    "color": "grey",
+    "ammo_type": "9mm",
+    "capacity": 15, 
+    "reliability": 2,
+    "flags": [ "MAG_COMPACT" ]
+  },
+  {
+    "id": "rak_9mm_30",
+    "type": "MAGAZINE",
+    "name": "PM-83p extended magazine",
+    "description": "an extended magazine for a PM-63 rak pdw chambered in 9mm",
+    "weight": 590,
+    "volume": 1,
+    "material": [ "steel" ],
+    "symbol": "#",
+    "color": "grey",
+    "ammo_type": "9mm",
+    "capacity": 30, 
+    "reliability": 2,
+    "flags": [ "MAG_COMPACT" ]
   }
 ]

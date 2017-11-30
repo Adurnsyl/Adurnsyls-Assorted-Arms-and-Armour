@@ -55,6 +55,7 @@ new ammo type: 7.92x33 kurtz
 
 + M10X (7.62x39)
 
+-------------
 New uniforms
 -------------
 + ACU's in both UCP and Multicam
@@ -63,7 +64,7 @@ New uniforms
 
 + IOTV's in both UCP and Multicam
 
-
+----------------------------------------------------
 build 2
 ----------------------------------------------------
 Most of the m16's and ar pattern rifles in game can now be stripped down to an upper and lower receiver and mixed and matched to make new franken rifles.
@@ -85,6 +86,7 @@ added 300 blackout barrel kit for the STG-44 rifles
 
 There might be a few other things I missed. this is the first big project I've worked on and I've had a hard time keeping track of my work.
 
+----------------
 build 3
 ----------------
 
@@ -94,6 +96,26 @@ More military vests!
  + plate carrier - it's a very very light vest. Hardly any encumberance, but it won't take a lot of abuse
 
 Theres also an armours only version and a weapons only version now for those who only want more armours or only want more weapons.
+----------------
+Build 4
+----------------
+
+ 3 more guns can now be disasembled into their components
+	+ glock 19 (receiver, barrel, slide)
+	+ CX4 (upper receiver, lower receiver, bolt group)
+	+ Calico SMG (upper receiver, lower receiver, bolt group)
+
+ A few new firearms
+	+ pm-83p : a compact SMG chambered in 9x19mm (comes with either a 15rnd or a 30rnd magazine)
+	+ pm-63 : same as the pm-83p just chambered in 9x18 makarov (comes with either a 15rnd or a 30rnd magazine)
+
+ New armors
+	+ TALOS armor and helmet
+	+ IIa police vest
+	+ IIIa police vest
+
+I'm getting rid of the 2 other versions for now. With school and NREMT classes I don't really have the time or energy to keep up with 3 different packs right now.
+I will probably split the main pack back up once I've added more in.
 ___________________________________________________________________________________________
 Disclaimer: By downloading this you agree to not modify my work in any way, shape, or form.
 
