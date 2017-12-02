@@ -101,18 +101,18 @@ Build 4
 ----------------
 
  3 more guns can now be disasembled into their components
-	+ glock 19 (receiver, barrel, slide)
-	+ CX4 (upper receiver, lower receiver, bolt group)
-	+ Calico SMG (upper receiver, lower receiver, bolt group)
+  + glock 19 (receiver, barrel, slide)
+  + CX4 (upper receiver, lower receiver, bolt group)
+  + Calico SMG (upper receiver, lower receiver, bolt group)
 
  A few new firearms
-	+ pm-83p : a compact SMG chambered in 9x19mm (comes with either a 15rnd or a 30rnd magazine)
-	+ pm-63 : same as the pm-83p just chambered in 9x18 makarov (comes with either a 15rnd or a 30rnd magazine)
+  + pm-83p : a compact SMG chambered in 9x19mm (comes with either a 15rnd or a 30rnd magazine)
+  + pm-63 : same as the pm-83p just chambered in 9x18 makarov (comes with either a 15rnd or a 30rnd magazine)
 
  New armors
-	+ TALOS armor and helmet
-	+ IIa police vest
-	+ IIIa police vest
+  + TALOS armor and helmet
+  + IIa police vest
+  + IIIa police vest
 
 I'm getting rid of the 2 other versions for now. With school and NREMT classes I don't really have the time or energy to keep up with 3 different packs right now.
 I will probably split the main pack back up once I've added more in.
