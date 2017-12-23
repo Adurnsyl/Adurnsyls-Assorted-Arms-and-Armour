@@ -117,7 +117,7 @@ Build 4
 I'm getting rid of the 2 other versions for now. With school and NREMT classes I don't really have the time or energy to keep up with 3 different packs right now.
 I will probably split the main pack back up once I've added more in.
 ___________________________________________________________________________________________
-Disclaimer: By downloading this you agree to not modify my work in any way, shape, or form.
+
 
 
 To install this mod simply place the aaa folder into the mods folder of CDDA (Where ever your CDDA file is at\Cataclysm Dark Days Ahead\cdda\data\mods)
